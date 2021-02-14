@@ -1,3 +1,4 @@
+
 #sliders {
   height: 400px;
   width: 60%;
@@ -63,4 +64,11 @@ img {
     height: 300px;
     width: 90%;
   }
+}
+.notFound{
+  grid-template-columns: 1fr!important;
+  color: darkgoldenrod;
+  font-size: 1.8rem;
+  font-weight: 600;
+  width: 100%;
 }
